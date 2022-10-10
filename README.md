@@ -23,5 +23,5 @@ En este proyecto vamos a hablar de la contribución de diferentes mujeres en el 
 - [Wikipedia](https://es.wikipedia.org/)
 
 ## Licencia
-![image](Licencia.PNG)
+![image](licencia.PNG)
 
