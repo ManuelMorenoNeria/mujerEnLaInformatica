@@ -10,7 +10,7 @@ En este proyecto vamos a hablar de la contribución de diferentes mujeres en el 
 - [Radia Joy Perlman](mujeres/radiaJoyPerlman/radiaJoyPerlman.md)
 
 
--[Joan Clarke](mujeres/JoanClarke/JoanClarke.md)
+- [Joan Clarke](mujeres/JoanClarke/JoanClarke.md)
 
 
 - [Grace Murray](mujeres/graceMurrayHopper/graceMurrayHopper.md)
