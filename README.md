@@ -5,19 +5,18 @@ En este proyecto vamos a hablar de la contribución de diferentes mujeres en el 
 
 - [Hedy Lamar](mujeres/hedyLamarr/hedyLamarr.md)
 
-## Radia Joy Perlman
+
 
 - [Radia Joy Perlman](mujeres/radiaJoyPerlman/radiaJoyPerlman.md)
 
 
-## Joan Clarke
+-[Joan Clarke]()
 
-![image](JoanClarke.jpg)
 
-## Grace Murray
+- [Grace Murray]()
 
-![image](GraceHopper.jpg)
 
-## Maria Blasco
 
-![image](mariablasco3.jpg)
+-[Maria Blasco]
+
+
