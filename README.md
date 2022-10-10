@@ -1,6 +1,9 @@
-# mujerEnLaInformatica
+# Contriución de la mujer a la Computación
+##  Introducción
+En este proyecto vamos a hablar de la contribución de diferentes mujeres en el ámbito de la computación y la ciencia en general. A continuación citamos algunas de las más relevantes:
+## Contenido
 
-## Hedy Lamar
+- Hedy Lamar
 
 ![image](HedyLamar.png)
 
@@ -10,4 +13,12 @@
 
 ## Joan Clarke
 
-![image](RadiaPerlman.jpg)
+![image](JoanClarke.jpg)
+
+## Grace Murray
+
+![image](GraceHopper.jpg)
+
+## Maria Blasco
+
+![image](mariablasco3.jpg)
