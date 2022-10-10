@@ -17,6 +17,6 @@ En este proyecto vamos a hablar de la contribución de diferentes mujeres en el 
 
 
 
--[Maria Blasco](mujeres/MariaBlasco/mariablasco.md)
+- [Maria Blasco](mujeres/MariaBlasco/mariablasco.md)
 
 
