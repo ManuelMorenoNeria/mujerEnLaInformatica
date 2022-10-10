@@ -3,9 +3,7 @@
 En este proyecto vamos a hablar de la contribución de diferentes mujeres en el ámbito de la computación y la ciencia en general. A continuación citamos algunas de las más relevantes:
 ## Contenido
 
-- [Hedy Lamar](mujerEnLaInformatica/mujeres/hedyLamarr/hedyLamarr.md)
-
-![image](Imagenes/HedyLamar.png)
+- [Hedy Lamar](mujeres/hedyLamarr/hedyLamarr.md)
 
 ## Radia Joy Perlman
 
